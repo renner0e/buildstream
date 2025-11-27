@@ -1,1 +1,4 @@
-helix
+buildstream
+just
+python3-dulwich
+python3-requests

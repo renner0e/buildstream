@@ -2,3 +2,4 @@ buildstream
 just
 python3-dulwich
 python3-requests
+python3-tomlkit
